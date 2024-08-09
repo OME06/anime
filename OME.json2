@@ -1,0 +1,38 @@
+{
+  "author": "OME",
+  "autoRestart": true,
+  "accpetPending": false,
+  "developermode": false,
+  "language": "en",
+  "notification": false,
+  "approval": false,
+  "saveState": true,
+  "BOTNAME": "OME BOT",
+  "PREFIX": "?",
+  "OPERATOR": [
+    "100090361566764"'
+    ""
+  
+    
+    
+    
+  ],
+  "ADMINBOT": [
+    "61555255448716",
+    "100090361566764",
+    "100055181988424",
+    "100076899621897",
+    "100089261882351",
+    ""
+    
+
+    
+  ],
+  "OWNER": ["100090361566764"], 
+  "APPROVED": [],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase",
+  "notice": "dont cng author name and owner uid. otherwise bot not working",
+  "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
+}
